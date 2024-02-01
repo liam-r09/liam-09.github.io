@@ -20,24 +20,26 @@
 
 title: Os Musiadas
 email: eclecticamedica@gmail.com 
+disqus: OsMusiadas
+google_analytics: G-  
 description: >- # this means to ignore newlines until "baseurl:"
   Os Musiadas is a play on words, combining the Portuguese epic poem
-  Os Lusiadas with "muse" taken from the Odyssey of Homer. This represents
-  a collection of creative and technical writings on subjects which 
-  interest me. All opinions my own, not to be interpreted as medical 
-  or professional advice.
+  Os Lusiadas with "muse" taken from the Odyssey of Homer. This website is
+  a collection of creative and technical writings on subjects which
+  interest me. 
 
-  Website was made using Jekyll.
-baseurl: "os-musiadas" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: "/os-musiadas" # the subpath of your site, e.g. /blog
+url: "htp://liam-r09.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: liam-r09 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hamilton 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-theme-hamilton  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
