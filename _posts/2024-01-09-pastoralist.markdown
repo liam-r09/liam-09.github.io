@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "Pastoralist"
+tag: poetry
 ---
 
 Led by those with crook in hand,
