@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Liam. I wrote this website using Jekyll in order to learn 
-about using new technologies. 
+Hi, my name is Liam. I wrote this website using Jekyll as a web development
+exercise. 
 
 My hope for this blog is first and foremost, a writing exercise for myself.
 Secondarily, I hope that it represents a source of interesting information
